@@ -55,7 +55,7 @@ Matrix matrix5 = new Matrix(myArray);
 This constructor creates a new Matrix object with the same values as the specified Matrix object.
 
 ```java
-Matrix matrix2 = new Matrix(matrix1);
+Matrix matrix6 = new Matrix(matrix5);
 ```
 
 # Contributing
