@@ -55,15 +55,11 @@ Matrix matrix5 = new Matrix(myArray);
 This constructor creates a new Matrix object with the same values as the specified Matrix object.
 
 ```java
-Matrix matrix6 = new Matrix(matrix5);
+Matrix matrix2 = new Matrix(matrix1);
 ```
 
 # Contributing
 Contributions to the Matrix Class are welcome! If you have an idea for a new feature or improvement, feel free to fork the repository and submit a pull request.
 
-# License
-
-The Matrix Class is released under the MIT License. See the LICENSE file for details.
-
 #  Contact
-If you have any questions or suggestions regarding the Matrix Class, please contact me at [email address]. Thank you for using the Matrix Class!
+If you have any questions or suggestions regarding the Matrix Class, please contact me at andreacotu11@gmail.com. Thank you for using the Matrix Class!
